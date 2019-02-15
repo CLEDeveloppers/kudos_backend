@@ -1,2 +1,2 @@
-# KUDOS---Back-End
-Back-end code of the platform KUDOS
+# KUDOS - Backend
+This repository will be for the backend of Kudos.
